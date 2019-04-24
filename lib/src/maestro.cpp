@@ -21,6 +21,7 @@ SOFTWARE.
 #include <iostream>
 #include <list>
 #include <memory>
+#include <fstream>
 
 #include "parser.hpp"
 #include "analysis-structure.hpp"
@@ -253,6 +254,11 @@ namespace maestro {
   }
 
   void AnalyzeRuntime(int num_alus_per_pe = 1, bool do_reduction = true, bool do_implicit_reduction = true, bool fg_sync = false, bool latency_hiding = true) {
+    std::ofstream output;
+
+    output.open("./result",std::ios::trunc|std::ios::app);
+
+
     perf_analysis = std::make_shared<maestro::PerformanceAnalysis> (map_analysis, buff_analysis, noc_model, do_reduction, do_implicit_reduction, fg_sync);
 
     long runtime = perf_analysis->GetRunTime (input_tensors, output_tensors, num_pes, num_alus_per_pe, latency_hiding);
@@ -267,11 +273,17 @@ namespace maestro {
     long temporal_iterations = map_analysis->GetNumTemporalIterations();
     long spatial_foldings = map_analysis->GetNumSpatialFoldings();
 
-    std::cout<< "The number of temporal iterations: " << temporal_iterations << std::endl;
-    std::cout<< "The number of spatial foldings: " << spatial_foldings << std::endl;
-    std::cout<< "The number of total iterations: " << temporal_iterations * spatial_foldings << std::endl;
-    std::cout << "Total Runtime: " << runtime << " cycles" << std::endl;
-    std::cout << "Total Energy: " << AnalyzeEnergy()/(float) (1.73) << " times MAC energy" << std::endl;
+//    std::cout<< "The number of temporal iterations: " << temporal_iterations << std::endl;
+//    std::cout<< "The number of spatial foldings: " << spatial_foldings << std::endl;
+//    std::cout<< "The number of total iterations: " << temporal_iterations * spatial_foldings << std::endl;
+//    std::cout << "Total Runtime: " << runtime << " cycles" << std::endl;
+//    std::cout << "Total Energy: " << AnalyzeEnergy()/(float) (1.73) << " times MAC energy" << std::endl;
+    output<<temporal_iterations << std::endl;
+    output<<spatial_foldings << std::endl;
+    output<< "The number of total iterations: " << temporal_iterations * spatial_foldings << std::endl;
+    output<< "Total Runtime: " << runtime << " cycles" << std::endl;
+    output<< "Total Energy: " << AnalyzeEnergy()/(float) (1.73) << " times MAC energy" << std::endl;
+    output.close();  
   }
 
 } //End of namespace maestro
