@@ -1,1935 +1,965 @@
-The number of temporal iterations: 69120
-The number of spatial foldings: 44
-The number of total iterations: 3041280
-Total Runtime: 191668742 cycles
-Total Energy: 2.16442e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 6
-The number of total iterations: 414720
-Total Runtime: 22947703 cycles
-Total Energy: 2.85415e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 6
-The number of total iterations: 414720
-Total Runtime: 23638970 cycles
-Total Energy: 2.94132e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 6
-The number of total iterations: 414720
-Total Runtime: 24675840 cycles
-Total Energy: 3.04249e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 7
-The number of total iterations: 483840
-Total Runtime: 30551090 cycles
-Total Energy: 3.6646e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 7
-The number of total iterations: 483840
-Total Runtime: 25574201 cycles
-Total Energy: 3.24907e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 7
-The number of total iterations: 483840
-Total Runtime: 26818388 cycles
-Total Energy: 3.34791e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 7
-The number of total iterations: 483840
-Total Runtime: 28062615 cycles
-Total Energy: 3.44907e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 7
-The number of total iterations: 483840
-Total Runtime: 29306847 cycles
-Total Energy: 3.53158e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 8
-The number of total iterations: 552960
-Total Runtime: 35389463 cycles
-Total Energy: 4.14902e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 8
-The number of total iterations: 552960
-Total Runtime: 29583124 cycles
-Total Energy: 3.75216e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 8
-The number of total iterations: 552960
-Total Runtime: 30550835 cycles
-Total Energy: 3.83466e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 8
-The number of total iterations: 552960
-Total Runtime: 32002427 cycles
-Total Energy: 3.9335e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 8
-The number of total iterations: 552960
-Total Runtime: 33454025 cycles
-Total Energy: 4.03233e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 9
-The number of total iterations: 622080
-Total Runtime: 39674889 cycles
-Total Energy: 4.62411e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 9
-The number of total iterations: 622080
-Total Runtime: 33039095 cycles
-Total Energy: 4.22959e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 9
-The number of total iterations: 622080
-Total Runtime: 34697996 cycles
-Total Energy: 4.32842e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 9
-The number of total iterations: 622080
-Total Runtime: 36356953 cycles
-Total Energy: 4.42725e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 9
-The number of total iterations: 622080
-Total Runtime: 38015917 cycles
-Total Energy: 4.52608e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 10
-The number of total iterations: 691200
-Total Runtime: 44444148 cycles
-Total Energy: 5.13653e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 10
-The number of total iterations: 691200
-Total Runtime: 36978899 cycles
-Total Energy: 4.72101e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 10
-The number of total iterations: 691200
-Total Runtime: 38845157 cycles
-Total Energy: 4.81984e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 10
-The number of total iterations: 691200
-Total Runtime: 40711479 cycles
-Total Energy: 4.91867e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 10
-The number of total iterations: 691200
-Total Runtime: 42577809 cycles
-Total Energy: 5.01517e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 11
-The number of total iterations: 760320
-Total Runtime: 49213398 cycles
-Total Energy: 5.62329e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 11
-The number of total iterations: 760320
-Total Runtime: 40918703 cycles
-Total Energy: 5.23109e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 11
-The number of total iterations: 760320
-Total Runtime: 42301128 cycles
-Total Energy: 5.3066e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 11
-The number of total iterations: 760320
-Total Runtime: 44374806 cycles
-Total Energy: 5.4031e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 11
-The number of total iterations: 760320
-Total Runtime: 47139701 cycles
-Total Energy: 5.50193e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 12
-The number of total iterations: 829440
-Total Runtime: 53982656 cycles
-Total Energy: 6.10538e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 12
-The number of total iterations: 829440
-Total Runtime: 44098198 cycles
-Total Energy: 5.71552e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 12
-The number of total iterations: 829440
-Total Runtime: 46379170 cycles
-Total Energy: 5.81202e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 12
-The number of total iterations: 829440
-Total Runtime: 48660212 cycles
-Total Energy: 5.88519e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 12
-The number of total iterations: 829440
-Total Runtime: 50941284 cycles
-Total Energy: 5.98169e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 13
-The number of total iterations: 898560
-Total Runtime: 57922486 cycles
-Total Energy: 6.5828e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 13
-The number of total iterations: 898560
-Total Runtime: 47968883 cycles
-Total Energy: 6.19528e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 13
-The number of total iterations: 898560
-Total Runtime: 50457212 cycles
-Total Energy: 6.29178e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 13
-The number of total iterations: 898560
-Total Runtime: 52945618 cycles
-Total Energy: 6.38828e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 13
-The number of total iterations: 898560
-Total Runtime: 55434057 cycles
-Total Energy: 6.48711e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 14
-The number of total iterations: 967680
-Total Runtime: 62622625 cycles
-Total Energy: 7.08822e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 14
-The number of total iterations: 967680
-Total Runtime: 51839568 cycles
-Total Energy: 6.7007e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 14
-The number of total iterations: 967680
-Total Runtime: 54535254 cycles
-Total Energy: 6.7972e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 14
-The number of total iterations: 967680
-Total Runtime: 57231024 cycles
-Total Energy: 6.89369e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 14
-The number of total iterations: 967680
-Total Runtime: 59926818 cycles
-Total Energy: 6.99019e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 15
-The number of total iterations: 1036800
-Total Runtime: 67322764 cycles
-Total Energy: 7.55865e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 15
-The number of total iterations: 1036800
-Total Runtime: 55710253 cycles
-Total Energy: 7.17345e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 15
-The number of total iterations: 1036800
-Total Runtime: 58613296 cycles
-Total Energy: 7.26995e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 15
-The number of total iterations: 1036800
-Total Runtime: 61516430 cycles
-Total Energy: 7.36645e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 15
-The number of total iterations: 1036800
-Total Runtime: 64419590 cycles
-Total Energy: 7.46295e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 16
-The number of total iterations: 1105920
-Total Runtime: 72022903 cycles
-Total Energy: 8.06174e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 16
-The number of total iterations: 1105920
-Total Runtime: 59580938 cycles
-Total Energy: 7.67654e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 16
-The number of total iterations: 1105920
-Total Runtime: 62691338 cycles
-Total Energy: 7.77304e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 16
-The number of total iterations: 1105920
-Total Runtime: 65801836 cycles
-Total Energy: 7.86954e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 16
-The number of total iterations: 1105920
-Total Runtime: 68912362 cycles
-Total Energy: 7.96604e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 17
-The number of total iterations: 1175040
-Total Runtime: 76723042 cycles
-Total Energy: 8.56482e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 17
-The number of total iterations: 1175040
-Total Runtime: 63451623 cycles
-Total Energy: 8.17963e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 17
-The number of total iterations: 1175040
-Total Runtime: 66769380 cycles
-Total Energy: 8.23647e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 17
-The number of total iterations: 1175040
-Total Runtime: 70087242 cycles
-Total Energy: 8.33297e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 17
-The number of total iterations: 1175040
-Total Runtime: 73405134 cycles
-Total Energy: 8.42947e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 18
-The number of total iterations: 1244160
-Total Runtime: 81423165 cycles
-Total Energy: 9.02592e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 18
-The number of total iterations: 1244160
-Total Runtime: 66147285 cycles
-Total Energy: 8.64072e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 18
-The number of total iterations: 1244160
-Total Runtime: 70847422 cycles
-Total Energy: 8.73722e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 18
-The number of total iterations: 1244160
-Total Runtime: 74372648 cycles
-Total Energy: 8.83372e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 18
-The number of total iterations: 1244160
-Total Runtime: 77897906 cycles
-Total Energy: 8.93022e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 19
-The number of total iterations: 1313280
-Total Runtime: 86123303 cycles
-Total Energy: 9.52667e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 19
-The number of total iterations: 1313280
-Total Runtime: 69948851 cycles
-Total Energy: 9.14148e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 19
-The number of total iterations: 1313280
-Total Runtime: 74925464 cycles
-Total Energy: 9.23798e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 19
-The number of total iterations: 1313280
-Total Runtime: 78658054 cycles
-Total Energy: 9.33448e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 19
-The number of total iterations: 1313280
-Total Runtime: 82390678 cycles
-Total Energy: 9.43098e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 20
-The number of total iterations: 1382400
-Total Runtime: 90823441 cycles
-Total Energy: 1.00274e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 20
-The number of total iterations: 1382400
-Total Runtime: 73750417 cycles
-Total Energy: 9.64223e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 20
-The number of total iterations: 1382400
-Total Runtime: 77690245 cycles
-Total Energy: 9.73873e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 20
-The number of total iterations: 1382400
-Total Runtime: 82943460 cycles
-Total Energy: 9.83523e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 20
-The number of total iterations: 1382400
-Total Runtime: 86883450 cycles
-Total Energy: 9.93173e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 21
-The number of total iterations: 1451520
-Total Runtime: 95523579 cycles
-Total Energy: 1.05282e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 21
-The number of total iterations: 1451520
-Total Runtime: 77551983 cycles
-Total Energy: 1.0143e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 21
-The number of total iterations: 1451520
-Total Runtime: 81699168 cycles
-Total Energy: 1.02395e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 21
-The number of total iterations: 1451520
-Total Runtime: 85846486 cycles
-Total Energy: 1.0336e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 21
-The number of total iterations: 1451520
-Total Runtime: 91376222 cycles
-Total Energy: 1.04325e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 22
-The number of total iterations: 1520640
-Total Runtime: 100223717 cycles
-Total Energy: 1.10289e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 22
-The number of total iterations: 1520640
-Total Runtime: 81353549 cycles
-Total Energy: 1.05947e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 22
-The number of total iterations: 1520640
-Total Runtime: 85708091 cycles
-Total Energy: 1.06912e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 22
-The number of total iterations: 1520640
-Total Runtime: 90062773 cycles
-Total Energy: 1.07877e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 22
-The number of total iterations: 1520640
-Total Runtime: 94417495 cycles
-Total Energy: 1.08842e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 23
-The number of total iterations: 1589760
-Total Runtime: 103403237 cycles
-Total Energy: 1.1476e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 23
-The number of total iterations: 1589760
-Total Runtime: 85155115 cycles
-Total Energy: 1.10932e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 23
-The number of total iterations: 1589760
-Total Runtime: 89717014 cycles
-Total Energy: 1.11897e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 23
-The number of total iterations: 1589760
-Total Runtime: 94279060 cycles
-Total Energy: 1.12862e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 23
-The number of total iterations: 1589760
-Total Runtime: 98841148 cycles
-Total Energy: 1.13803e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 24
-The number of total iterations: 1658880
-Total Runtime: 108034256 cycles
-Total Energy: 1.19745e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 24
-The number of total iterations: 1658880
-Total Runtime: 88956681 cycles
-Total Energy: 1.15916e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 24
-The number of total iterations: 1658880
-Total Runtime: 93725937 cycles
-Total Energy: 1.16881e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 24
-The number of total iterations: 1658880
-Total Runtime: 98495347 cycles
-Total Energy: 1.17846e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 24
-The number of total iterations: 1658880
-Total Runtime: 103264801 cycles
-Total Energy: 1.18788e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 25
-The number of total iterations: 1728000
-Total Runtime: 112665275 cycles
-Total Energy: 1.24729e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 25
-The number of total iterations: 1728000
-Total Runtime: 92689128 cycles
-Total Energy: 1.209e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 25
-The number of total iterations: 1728000
-Total Runtime: 97665741 cycles
-Total Energy: 1.21865e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 25
-The number of total iterations: 1728000
-Total Runtime: 102642515 cycles
-Total Energy: 1.2283e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 25
-The number of total iterations: 1728000
-Total Runtime: 107619335 cycles
-Total Energy: 1.23772e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 26
-The number of total iterations: 1797120
-Total Runtime: 117227174 cycles
-Total Energy: 1.29713e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 26
-The number of total iterations: 1797120
-Total Runtime: 96490694 cycles
-Total Energy: 1.25884e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 26
-The number of total iterations: 1797120
-Total Runtime: 101674664 cycles
-Total Energy: 1.26849e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 26
-The number of total iterations: 1797120
-Total Runtime: 106858802 cycles
-Total Energy: 1.27791e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 26
-The number of total iterations: 1797120
-Total Runtime: 112042988 cycles
-Total Energy: 1.28756e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 27
-The number of total iterations: 1866240
-Total Runtime: 121858193 cycles
-Total Energy: 1.34697e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 27
-The number of total iterations: 1866240
-Total Runtime: 100292260 cycles
-Total Energy: 1.30869e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 27
-The number of total iterations: 1866240
-Total Runtime: 105683587 cycles
-Total Energy: 1.31834e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 27
-The number of total iterations: 1866240
-Total Runtime: 111075089 cycles
-Total Energy: 1.32775e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 27
-The number of total iterations: 1866240
-Total Runtime: 116466641 cycles
-Total Energy: 1.3374e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 28
-The number of total iterations: 1935360
-Total Runtime: 126489212 cycles
-Total Energy: 1.39681e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 28
-The number of total iterations: 1935360
-Total Runtime: 104093826 cycles
-Total Energy: 1.35853e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 28
-The number of total iterations: 1935360
-Total Runtime: 109692510 cycles
-Total Energy: 1.36818e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 28
-The number of total iterations: 1935360
-Total Runtime: 115291376 cycles
-Total Energy: 1.37759e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 28
-The number of total iterations: 1935360
-Total Runtime: 120890294 cycles
-Total Energy: 1.38724e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 29
-The number of total iterations: 2004480
-Total Runtime: 131120231 cycles
-Total Energy: 1.44666e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 29
-The number of total iterations: 2004480
-Total Runtime: 107895392 cycles
-Total Energy: 1.40837e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 29
-The number of total iterations: 2004480
-Total Runtime: 113701433 cycles
-Total Energy: 1.41149e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 29
-The number of total iterations: 2004480
-Total Runtime: 119507663 cycles
-Total Energy: 1.4209e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 29
-The number of total iterations: 2004480
-Total Runtime: 125313947 cycles
-Total Energy: 1.43055e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 30
-The number of total iterations: 2073600
-Total Runtime: 135751250 cycles
-Total Energy: 1.4895e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 30
-The number of total iterations: 2073600
-Total Runtime: 111696958 cycles
-Total Energy: 1.45145e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 30
-The number of total iterations: 2073600
-Total Runtime: 117710356 cycles
-Total Energy: 1.4611e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 30
-The number of total iterations: 2073600
-Total Runtime: 123723950 cycles
-Total Energy: 1.47051e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 30
-The number of total iterations: 2073600
-Total Runtime: 129737600 cycles
-Total Energy: 1.48016e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 31
-The number of total iterations: 2142720
-Total Runtime: 140382269 cycles
-Total Energy: 1.53911e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 31
-The number of total iterations: 2142720
-Total Runtime: 115498524 cycles
-Total Energy: 1.50105e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 31
-The number of total iterations: 2142720
-Total Runtime: 121719279 cycles
-Total Energy: 1.5107e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 31
-The number of total iterations: 2142720
-Total Runtime: 127940237 cycles
-Total Energy: 1.52012e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 31
-The number of total iterations: 2142720
-Total Runtime: 134161253 cycles
-Total Energy: 1.52977e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 32
-The number of total iterations: 2211840
-Total Runtime: 145013288 cycles
-Total Energy: 1.58872e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 32
-The number of total iterations: 2211840
-Total Runtime: 119300090 cycles
-Total Energy: 1.55066e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 32
-The number of total iterations: 2211840
-Total Runtime: 125728202 cycles
-Total Energy: 1.56031e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 32
-The number of total iterations: 2211840
-Total Runtime: 132156524 cycles
-Total Energy: 1.56973e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 32
-The number of total iterations: 2211840
-Total Runtime: 138584906 cycles
-Total Energy: 1.57938e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 33
-The number of total iterations: 2280960
-Total Runtime: 149644307 cycles
-Total Energy: 1.63833e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 33
-The number of total iterations: 2280960
-Total Runtime: 123101656 cycles
-Total Energy: 1.60027e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 33
-The number of total iterations: 2280960
-Total Runtime: 129737125 cycles
-Total Energy: 1.60992e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 33
-The number of total iterations: 2280960
-Total Runtime: 136372811 cycles
-Total Energy: 1.61934e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 33
-The number of total iterations: 2280960
-Total Runtime: 143008559 cycles
-Total Energy: 1.62899e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 34
-The number of total iterations: 2350080
-Total Runtime: 154275326 cycles
-Total Energy: 1.68793e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 34
-The number of total iterations: 2350080
-Total Runtime: 126903222 cycles
-Total Energy: 1.64988e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 34
-The number of total iterations: 2350080
-Total Runtime: 133746048 cycles
-Total Energy: 1.65953e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 34
-The number of total iterations: 2350080
-Total Runtime: 140589098 cycles
-Total Energy: 1.66895e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 34
-The number of total iterations: 2350080
-Total Runtime: 147432212 cycles
-Total Energy: 1.67836e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 35
-The number of total iterations: 2419200
-Total Runtime: 158906345 cycles
-Total Energy: 1.73754e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 35
-The number of total iterations: 2419200
-Total Runtime: 130704788 cycles
-Total Energy: 1.69949e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 35
-The number of total iterations: 2419200
-Total Runtime: 137754971 cycles
-Total Energy: 1.70891e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 35
-The number of total iterations: 2419200
-Total Runtime: 144805385 cycles
-Total Energy: 1.71856e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 35
-The number of total iterations: 2419200
-Total Runtime: 151855865 cycles
-Total Energy: 1.72797e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 36
-The number of total iterations: 2488320
-Total Runtime: 163537364 cycles
-Total Energy: 1.78715e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 36
-The number of total iterations: 2488320
-Total Runtime: 134506354 cycles
-Total Energy: 1.7491e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 36
-The number of total iterations: 2488320
-Total Runtime: 141763894 cycles
-Total Energy: 1.75852e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 36
-The number of total iterations: 2488320
-Total Runtime: 149021672 cycles
-Total Energy: 1.76817e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 36
-The number of total iterations: 2488320
-Total Runtime: 156279518 cycles
-Total Energy: 1.77758e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 37
-The number of total iterations: 2557440
-Total Runtime: 168168383 cycles
-Total Energy: 1.83676e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 37
-The number of total iterations: 2557440
-Total Runtime: 138307920 cycles
-Total Energy: 1.79871e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 37
-The number of total iterations: 2557440
-Total Runtime: 145772817 cycles
-Total Energy: 1.80812e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 37
-The number of total iterations: 2557440
-Total Runtime: 153237959 cycles
-Total Energy: 1.81777e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 37
-The number of total iterations: 2557440
-Total Runtime: 160703171 cycles
-Total Energy: 1.82719e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 38
-The number of total iterations: 2626560
-Total Runtime: 172799402 cycles
-Total Energy: 1.88637e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 38
-The number of total iterations: 2626560
-Total Runtime: 142109486 cycles
-Total Energy: 1.84832e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 38
-The number of total iterations: 2626560
-Total Runtime: 149781740 cycles
-Total Energy: 1.85773e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 38
-The number of total iterations: 2626560
-Total Runtime: 157454246 cycles
-Total Energy: 1.86738e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 38
-The number of total iterations: 2626560
-Total Runtime: 165126824 cycles
-Total Energy: 1.8768e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 39
-The number of total iterations: 2695680
-Total Runtime: 177430421 cycles
-Total Energy: 1.93598e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 39
-The number of total iterations: 2695680
-Total Runtime: 145911052 cycles
-Total Energy: 1.89793e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 39
-The number of total iterations: 2695680
-Total Runtime: 153790663 cycles
-Total Energy: 1.90734e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 39
-The number of total iterations: 2695680
-Total Runtime: 161670533 cycles
-Total Energy: 1.91699e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 39
-The number of total iterations: 2695680
-Total Runtime: 169550477 cycles
-Total Energy: 1.92641e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 40
-The number of total iterations: 2764800
-Total Runtime: 182061440 cycles
-Total Energy: 1.98559e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 40
-The number of total iterations: 2764800
-Total Runtime: 149712618 cycles
-Total Energy: 1.94753e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 40
-The number of total iterations: 2764800
-Total Runtime: 157799586 cycles
-Total Energy: 1.95695e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 40
-The number of total iterations: 2764800
-Total Runtime: 165886820 cycles
-Total Energy: 1.9666e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 40
-The number of total iterations: 2764800
-Total Runtime: 173974130 cycles
-Total Energy: 1.97602e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 41
-The number of total iterations: 2833920
-Total Runtime: 186692459 cycles
-Total Energy: 2.0352e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 41
-The number of total iterations: 2833920
-Total Runtime: 153514184 cycles
-Total Energy: 1.99714e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 41
-The number of total iterations: 2833920
-Total Runtime: 161808509 cycles
-Total Energy: 2.00656e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 41
-The number of total iterations: 2833920
-Total Runtime: 170103107 cycles
-Total Energy: 2.01621e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 41
-The number of total iterations: 2833920
-Total Runtime: 178397783 cycles
-Total Energy: 2.02563e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 42
-The number of total iterations: 2903040
-Total Runtime: 191323478 cycles
-Total Energy: 2.0848e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 42
-The number of total iterations: 2903040
-Total Runtime: 157315750 cycles
-Total Energy: 2.04675e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 42
-The number of total iterations: 2903040
-Total Runtime: 165817432 cycles
-Total Energy: 2.05617e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 42
-The number of total iterations: 2903040
-Total Runtime: 174319394 cycles
-Total Energy: 2.06582e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 42
-The number of total iterations: 2903040
-Total Runtime: 182821436 cycles
-Total Energy: 2.07524e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 43
-The number of total iterations: 2972160
-Total Runtime: 195954497 cycles
-Total Energy: 2.13441e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 43
-The number of total iterations: 2972160
-Total Runtime: 161117316 cycles
-Total Energy: 2.09636e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 43
-The number of total iterations: 2972160
-Total Runtime: 169826355 cycles
-Total Energy: 2.10578e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 43
-The number of total iterations: 2972160
-Total Runtime: 178535681 cycles
-Total Energy: 2.11543e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 43
-The number of total iterations: 2972160
-Total Runtime: 187245089 cycles
-Total Energy: 2.11505e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 44
-The number of total iterations: 3041280
-Total Runtime: 200585516 cycles
-Total Energy: 2.17376e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 44
-The number of total iterations: 3041280
-Total Runtime: 164918882 cycles
-Total Energy: 2.13594e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 44
-The number of total iterations: 3041280
-Total Runtime: 173835278 cycles
-Total Energy: 2.14535e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 44
-The number of total iterations: 3041280
-Total Runtime: 182751968 cycles
-Total Energy: 2.155e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 44
-The number of total iterations: 3041280
-Total Runtime: 191668742 cycles
-Total Energy: 2.16442e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 6
-The number of total iterations: 414720
-Total Runtime: 22947703 cycles
-Total Energy: 2.85415e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 6
-The number of total iterations: 414720
-Total Runtime: 23638970 cycles
-Total Energy: 2.94132e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 6
-The number of total iterations: 414720
-Total Runtime: 24675840 cycles
-Total Energy: 3.04249e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 7
-The number of total iterations: 483840
-Total Runtime: 30551090 cycles
-Total Energy: 3.6646e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 7
-The number of total iterations: 483840
-Total Runtime: 25574201 cycles
-Total Energy: 3.24907e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 7
-The number of total iterations: 483840
-Total Runtime: 26818388 cycles
-Total Energy: 3.34791e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 7
-The number of total iterations: 483840
-Total Runtime: 28062615 cycles
-Total Energy: 3.44907e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 7
-The number of total iterations: 483840
-Total Runtime: 29306847 cycles
-Total Energy: 3.53158e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 8
-The number of total iterations: 552960
-Total Runtime: 35389463 cycles
-Total Energy: 4.14902e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 8
-The number of total iterations: 552960
-Total Runtime: 29583124 cycles
-Total Energy: 3.75216e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 8
-The number of total iterations: 552960
-Total Runtime: 30550835 cycles
-Total Energy: 3.83466e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 8
-The number of total iterations: 552960
-Total Runtime: 32002427 cycles
-Total Energy: 3.9335e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 8
-The number of total iterations: 552960
-Total Runtime: 33454025 cycles
-Total Energy: 4.03233e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 9
-The number of total iterations: 622080
-Total Runtime: 39674889 cycles
-Total Energy: 4.62411e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 9
-The number of total iterations: 622080
-Total Runtime: 33039095 cycles
-Total Energy: 4.22959e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 9
-The number of total iterations: 622080
-Total Runtime: 34697996 cycles
-Total Energy: 4.32842e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 9
-The number of total iterations: 622080
-Total Runtime: 36356953 cycles
-Total Energy: 4.42725e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 9
-The number of total iterations: 622080
-Total Runtime: 38015917 cycles
-Total Energy: 4.52608e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 10
-The number of total iterations: 691200
-Total Runtime: 44444148 cycles
-Total Energy: 5.13653e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 10
-The number of total iterations: 691200
-Total Runtime: 36978899 cycles
-Total Energy: 4.72101e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 10
-The number of total iterations: 691200
-Total Runtime: 38845157 cycles
-Total Energy: 4.81984e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 10
-The number of total iterations: 691200
-Total Runtime: 40711479 cycles
-Total Energy: 4.91867e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 10
-The number of total iterations: 691200
-Total Runtime: 42577809 cycles
-Total Energy: 5.01517e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 11
-The number of total iterations: 760320
-Total Runtime: 49213398 cycles
-Total Energy: 5.62329e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 11
-The number of total iterations: 760320
-Total Runtime: 40918703 cycles
-Total Energy: 5.23109e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 11
-The number of total iterations: 760320
-Total Runtime: 42301128 cycles
-Total Energy: 5.3066e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 11
-The number of total iterations: 760320
-Total Runtime: 44374806 cycles
-Total Energy: 5.4031e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 11
-The number of total iterations: 760320
-Total Runtime: 47139701 cycles
-Total Energy: 5.50193e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 12
-The number of total iterations: 829440
-Total Runtime: 53982656 cycles
-Total Energy: 6.10538e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 12
-The number of total iterations: 829440
-Total Runtime: 44098198 cycles
-Total Energy: 5.71552e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 12
-The number of total iterations: 829440
-Total Runtime: 46379170 cycles
-Total Energy: 5.81202e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 12
-The number of total iterations: 829440
-Total Runtime: 48660212 cycles
-Total Energy: 5.88519e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 12
-The number of total iterations: 829440
-Total Runtime: 50941284 cycles
-Total Energy: 5.98169e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 13
-The number of total iterations: 898560
-Total Runtime: 57922486 cycles
-Total Energy: 6.5828e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 13
-The number of total iterations: 898560
-Total Runtime: 47968883 cycles
-Total Energy: 6.19528e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 13
-The number of total iterations: 898560
-Total Runtime: 50457212 cycles
-Total Energy: 6.29178e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 13
-The number of total iterations: 898560
-Total Runtime: 52945618 cycles
-Total Energy: 6.38828e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 13
-The number of total iterations: 898560
-Total Runtime: 55434057 cycles
-Total Energy: 6.48711e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 14
-The number of total iterations: 967680
-Total Runtime: 62622625 cycles
-Total Energy: 7.08822e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 14
-The number of total iterations: 967680
-Total Runtime: 51839568 cycles
-Total Energy: 6.7007e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 14
-The number of total iterations: 967680
-Total Runtime: 54535254 cycles
-Total Energy: 6.7972e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 14
-The number of total iterations: 967680
-Total Runtime: 57231024 cycles
-Total Energy: 6.89369e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 14
-The number of total iterations: 967680
-Total Runtime: 59926818 cycles
-Total Energy: 6.99019e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 15
-The number of total iterations: 1036800
-Total Runtime: 67322764 cycles
-Total Energy: 7.55865e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 15
-The number of total iterations: 1036800
-Total Runtime: 55710253 cycles
-Total Energy: 7.17345e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 15
-The number of total iterations: 1036800
-Total Runtime: 58613296 cycles
-Total Energy: 7.26995e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 15
-The number of total iterations: 1036800
-Total Runtime: 61516430 cycles
-Total Energy: 7.36645e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 15
-The number of total iterations: 1036800
-Total Runtime: 64419590 cycles
-Total Energy: 7.46295e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 16
-The number of total iterations: 1105920
-Total Runtime: 72022903 cycles
-Total Energy: 8.06174e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 16
-The number of total iterations: 1105920
-Total Runtime: 59580938 cycles
-Total Energy: 7.67654e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 16
-The number of total iterations: 1105920
-Total Runtime: 62691338 cycles
-Total Energy: 7.77304e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 16
-The number of total iterations: 1105920
-Total Runtime: 65801836 cycles
-Total Energy: 7.86954e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 16
-The number of total iterations: 1105920
-Total Runtime: 68912362 cycles
-Total Energy: 7.96604e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 17
-The number of total iterations: 1175040
-Total Runtime: 76723042 cycles
-Total Energy: 8.56482e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 17
-The number of total iterations: 1175040
-Total Runtime: 63451623 cycles
-Total Energy: 8.17963e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 17
-The number of total iterations: 1175040
-Total Runtime: 66769380 cycles
-Total Energy: 8.23647e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 17
-The number of total iterations: 1175040
-Total Runtime: 70087242 cycles
-Total Energy: 8.33297e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 17
-The number of total iterations: 1175040
-Total Runtime: 73405134 cycles
-Total Energy: 8.42947e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 18
-The number of total iterations: 1244160
-Total Runtime: 81423165 cycles
-Total Energy: 9.02592e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 18
-The number of total iterations: 1244160
-Total Runtime: 66147285 cycles
-Total Energy: 8.64072e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 18
-The number of total iterations: 1244160
-Total Runtime: 70847422 cycles
-Total Energy: 8.73722e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 18
-The number of total iterations: 1244160
-Total Runtime: 74372648 cycles
-Total Energy: 8.83372e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 18
-The number of total iterations: 1244160
-Total Runtime: 77897906 cycles
-Total Energy: 8.93022e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 19
-The number of total iterations: 1313280
-Total Runtime: 86123303 cycles
-Total Energy: 9.52667e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 19
-The number of total iterations: 1313280
-Total Runtime: 69948851 cycles
-Total Energy: 9.14148e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 19
-The number of total iterations: 1313280
-Total Runtime: 74925464 cycles
-Total Energy: 9.23798e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 19
-The number of total iterations: 1313280
-Total Runtime: 78658054 cycles
-Total Energy: 9.33448e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 19
-The number of total iterations: 1313280
-Total Runtime: 82390678 cycles
-Total Energy: 9.43098e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 20
-The number of total iterations: 1382400
-Total Runtime: 90823441 cycles
-Total Energy: 1.00274e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 20
-The number of total iterations: 1382400
-Total Runtime: 73750417 cycles
-Total Energy: 9.64223e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 20
-The number of total iterations: 1382400
-Total Runtime: 77690245 cycles
-Total Energy: 9.73873e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 20
-The number of total iterations: 1382400
-Total Runtime: 82943460 cycles
-Total Energy: 9.83523e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 20
-The number of total iterations: 1382400
-Total Runtime: 86883450 cycles
-Total Energy: 9.93173e+09 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 21
-The number of total iterations: 1451520
-Total Runtime: 95523579 cycles
-Total Energy: 1.05282e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 21
-The number of total iterations: 1451520
-Total Runtime: 77551983 cycles
-Total Energy: 1.0143e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 21
-The number of total iterations: 1451520
-Total Runtime: 81699168 cycles
-Total Energy: 1.02395e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 21
-The number of total iterations: 1451520
-Total Runtime: 85846486 cycles
-Total Energy: 1.0336e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 21
-The number of total iterations: 1451520
-Total Runtime: 91376222 cycles
-Total Energy: 1.04325e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 22
-The number of total iterations: 1520640
-Total Runtime: 100223717 cycles
-Total Energy: 1.10289e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 22
-The number of total iterations: 1520640
-Total Runtime: 81353549 cycles
-Total Energy: 1.05947e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 22
-The number of total iterations: 1520640
-Total Runtime: 85708091 cycles
-Total Energy: 1.06912e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 22
-The number of total iterations: 1520640
-Total Runtime: 90062773 cycles
-Total Energy: 1.07877e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 22
-The number of total iterations: 1520640
-Total Runtime: 94417495 cycles
-Total Energy: 1.08842e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 23
-The number of total iterations: 1589760
-Total Runtime: 103403237 cycles
-Total Energy: 1.1476e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 23
-The number of total iterations: 1589760
-Total Runtime: 85155115 cycles
-Total Energy: 1.10932e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 23
-The number of total iterations: 1589760
-Total Runtime: 89717014 cycles
-Total Energy: 1.11897e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 23
-The number of total iterations: 1589760
-Total Runtime: 94279060 cycles
-Total Energy: 1.12862e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 23
-The number of total iterations: 1589760
-Total Runtime: 98841148 cycles
-Total Energy: 1.13803e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 24
-The number of total iterations: 1658880
-Total Runtime: 108034256 cycles
-Total Energy: 1.19745e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 24
-The number of total iterations: 1658880
-Total Runtime: 88956681 cycles
-Total Energy: 1.15916e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 24
-The number of total iterations: 1658880
-Total Runtime: 93725937 cycles
-Total Energy: 1.16881e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 24
-The number of total iterations: 1658880
-Total Runtime: 98495347 cycles
-Total Energy: 1.17846e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 24
-The number of total iterations: 1658880
-Total Runtime: 103264801 cycles
-Total Energy: 1.18788e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 25
-The number of total iterations: 1728000
-Total Runtime: 112665275 cycles
-Total Energy: 1.24729e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 25
-The number of total iterations: 1728000
-Total Runtime: 92689128 cycles
-Total Energy: 1.209e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 25
-The number of total iterations: 1728000
-Total Runtime: 97665741 cycles
-Total Energy: 1.21865e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 25
-The number of total iterations: 1728000
-Total Runtime: 102642515 cycles
-Total Energy: 1.2283e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 25
-The number of total iterations: 1728000
-Total Runtime: 107619335 cycles
-Total Energy: 1.23772e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 26
-The number of total iterations: 1797120
-Total Runtime: 117227174 cycles
-Total Energy: 1.29713e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 26
-The number of total iterations: 1797120
-Total Runtime: 96490694 cycles
-Total Energy: 1.25884e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 26
-The number of total iterations: 1797120
-Total Runtime: 101674664 cycles
-Total Energy: 1.26849e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 26
-The number of total iterations: 1797120
-Total Runtime: 106858802 cycles
-Total Energy: 1.27791e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 26
-The number of total iterations: 1797120
-Total Runtime: 112042988 cycles
-Total Energy: 1.28756e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 27
-The number of total iterations: 1866240
-Total Runtime: 121858193 cycles
-Total Energy: 1.34697e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 27
-The number of total iterations: 1866240
-Total Runtime: 100292260 cycles
-Total Energy: 1.30869e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 27
-The number of total iterations: 1866240
-Total Runtime: 105683587 cycles
-Total Energy: 1.31834e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 27
-The number of total iterations: 1866240
-Total Runtime: 111075089 cycles
-Total Energy: 1.32775e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 27
-The number of total iterations: 1866240
-Total Runtime: 116466641 cycles
-Total Energy: 1.3374e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 28
-The number of total iterations: 1935360
-Total Runtime: 126489212 cycles
-Total Energy: 1.39681e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 28
-The number of total iterations: 1935360
-Total Runtime: 104093826 cycles
-Total Energy: 1.35853e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 28
-The number of total iterations: 1935360
-Total Runtime: 109692510 cycles
-Total Energy: 1.36818e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 28
-The number of total iterations: 1935360
-Total Runtime: 115291376 cycles
-Total Energy: 1.37759e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 28
-The number of total iterations: 1935360
-Total Runtime: 120890294 cycles
-Total Energy: 1.38724e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 29
-The number of total iterations: 2004480
-Total Runtime: 131120231 cycles
-Total Energy: 1.44666e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 29
-The number of total iterations: 2004480
-Total Runtime: 107895392 cycles
-Total Energy: 1.40837e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 29
-The number of total iterations: 2004480
-Total Runtime: 113701433 cycles
-Total Energy: 1.41149e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 29
-The number of total iterations: 2004480
-Total Runtime: 119507663 cycles
-Total Energy: 1.4209e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 29
-The number of total iterations: 2004480
-Total Runtime: 125313947 cycles
-Total Energy: 1.43055e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 30
-The number of total iterations: 2073600
-Total Runtime: 135751250 cycles
-Total Energy: 1.4895e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 30
-The number of total iterations: 2073600
-Total Runtime: 111696958 cycles
-Total Energy: 1.45145e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 30
-The number of total iterations: 2073600
-Total Runtime: 117710356 cycles
-Total Energy: 1.4611e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 30
-The number of total iterations: 2073600
-Total Runtime: 123723950 cycles
-Total Energy: 1.47051e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 30
-The number of total iterations: 2073600
-Total Runtime: 129737600 cycles
-Total Energy: 1.48016e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 31
-The number of total iterations: 2142720
-Total Runtime: 140382269 cycles
-Total Energy: 1.53911e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 31
-The number of total iterations: 2142720
-Total Runtime: 115498524 cycles
-Total Energy: 1.50105e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 31
-The number of total iterations: 2142720
-Total Runtime: 121719279 cycles
-Total Energy: 1.5107e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 31
-The number of total iterations: 2142720
-Total Runtime: 127940237 cycles
-Total Energy: 1.52012e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 31
-The number of total iterations: 2142720
-Total Runtime: 134161253 cycles
-Total Energy: 1.52977e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 32
-The number of total iterations: 2211840
-Total Runtime: 145013288 cycles
-Total Energy: 1.58872e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 32
-The number of total iterations: 2211840
-Total Runtime: 119300090 cycles
-Total Energy: 1.55066e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 32
-The number of total iterations: 2211840
-Total Runtime: 125728202 cycles
-Total Energy: 1.56031e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 32
-The number of total iterations: 2211840
-Total Runtime: 132156524 cycles
-Total Energy: 1.56973e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 32
-The number of total iterations: 2211840
-Total Runtime: 138584906 cycles
-Total Energy: 1.57938e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 33
-The number of total iterations: 2280960
-Total Runtime: 149644307 cycles
-Total Energy: 1.63833e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 33
-The number of total iterations: 2280960
-Total Runtime: 123101656 cycles
-Total Energy: 1.60027e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 33
-The number of total iterations: 2280960
-Total Runtime: 129737125 cycles
-Total Energy: 1.60992e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 33
-The number of total iterations: 2280960
-Total Runtime: 136372811 cycles
-Total Energy: 1.61934e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 33
-The number of total iterations: 2280960
-Total Runtime: 143008559 cycles
-Total Energy: 1.62899e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 34
-The number of total iterations: 2350080
-Total Runtime: 154275326 cycles
-Total Energy: 1.68793e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 34
-The number of total iterations: 2350080
-Total Runtime: 126903222 cycles
-Total Energy: 1.64988e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 34
-The number of total iterations: 2350080
-Total Runtime: 133746048 cycles
-Total Energy: 1.65953e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 34
-The number of total iterations: 2350080
-Total Runtime: 140589098 cycles
-Total Energy: 1.66895e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 34
-The number of total iterations: 2350080
-Total Runtime: 147432212 cycles
-Total Energy: 1.67836e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 35
-The number of total iterations: 2419200
-Total Runtime: 158906345 cycles
-Total Energy: 1.73754e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 35
-The number of total iterations: 2419200
-Total Runtime: 130704788 cycles
-Total Energy: 1.69949e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 35
-The number of total iterations: 2419200
-Total Runtime: 137754971 cycles
-Total Energy: 1.70891e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 35
-The number of total iterations: 2419200
-Total Runtime: 144805385 cycles
-Total Energy: 1.71856e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 35
-The number of total iterations: 2419200
-Total Runtime: 151855865 cycles
-Total Energy: 1.72797e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 36
-The number of total iterations: 2488320
-Total Runtime: 163537364 cycles
-Total Energy: 1.78715e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 36
-The number of total iterations: 2488320
-Total Runtime: 134506354 cycles
-Total Energy: 1.7491e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 36
-The number of total iterations: 2488320
-Total Runtime: 141763894 cycles
-Total Energy: 1.75852e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 36
-The number of total iterations: 2488320
-Total Runtime: 149021672 cycles
-Total Energy: 1.76817e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 36
-The number of total iterations: 2488320
-Total Runtime: 156279518 cycles
-Total Energy: 1.77758e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 37
-The number of total iterations: 2557440
-Total Runtime: 168168383 cycles
-Total Energy: 1.83676e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 37
-The number of total iterations: 2557440
-Total Runtime: 138307920 cycles
-Total Energy: 1.79871e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 37
-The number of total iterations: 2557440
-Total Runtime: 145772817 cycles
-Total Energy: 1.80812e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 37
-The number of total iterations: 2557440
-Total Runtime: 153237959 cycles
-Total Energy: 1.81777e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 37
-The number of total iterations: 2557440
-Total Runtime: 160703171 cycles
-Total Energy: 1.82719e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 38
-The number of total iterations: 2626560
-Total Runtime: 172799402 cycles
-Total Energy: 1.88637e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 38
-The number of total iterations: 2626560
-Total Runtime: 142109486 cycles
-Total Energy: 1.84832e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 38
-The number of total iterations: 2626560
-Total Runtime: 149781740 cycles
-Total Energy: 1.85773e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 38
-The number of total iterations: 2626560
-Total Runtime: 157454246 cycles
-Total Energy: 1.86738e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 38
-The number of total iterations: 2626560
-Total Runtime: 165126824 cycles
-Total Energy: 1.8768e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 39
-The number of total iterations: 2695680
-Total Runtime: 177430421 cycles
-Total Energy: 1.93598e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 39
-The number of total iterations: 2695680
-Total Runtime: 145911052 cycles
-Total Energy: 1.89793e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 39
-The number of total iterations: 2695680
-Total Runtime: 153790663 cycles
-Total Energy: 1.90734e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 39
-The number of total iterations: 2695680
-Total Runtime: 161670533 cycles
-Total Energy: 1.91699e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 39
-The number of total iterations: 2695680
-Total Runtime: 169550477 cycles
-Total Energy: 1.92641e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 40
-The number of total iterations: 2764800
-Total Runtime: 182061440 cycles
-Total Energy: 1.98559e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 40
-The number of total iterations: 2764800
-Total Runtime: 149712618 cycles
-Total Energy: 1.94753e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 40
-The number of total iterations: 2764800
-Total Runtime: 157799586 cycles
-Total Energy: 1.95695e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 40
-The number of total iterations: 2764800
-Total Runtime: 165886820 cycles
-Total Energy: 1.9666e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 40
-The number of total iterations: 2764800
-Total Runtime: 173974130 cycles
-Total Energy: 1.97602e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 41
-The number of total iterations: 2833920
-Total Runtime: 186692459 cycles
-Total Energy: 2.0352e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 41
-The number of total iterations: 2833920
-Total Runtime: 153514184 cycles
-Total Energy: 1.99714e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 41
-The number of total iterations: 2833920
-Total Runtime: 161808509 cycles
-Total Energy: 2.00656e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 41
-The number of total iterations: 2833920
-Total Runtime: 170103107 cycles
-Total Energy: 2.01621e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 41
-The number of total iterations: 2833920
-Total Runtime: 178397783 cycles
-Total Energy: 2.02563e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 42
-The number of total iterations: 2903040
-Total Runtime: 191323478 cycles
-Total Energy: 2.0848e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 42
-The number of total iterations: 2903040
-Total Runtime: 157315750 cycles
-Total Energy: 2.04675e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 42
-The number of total iterations: 2903040
-Total Runtime: 165817432 cycles
-Total Energy: 2.05617e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 42
-The number of total iterations: 2903040
-Total Runtime: 174319394 cycles
-Total Energy: 2.06582e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 42
-The number of total iterations: 2903040
-Total Runtime: 182821436 cycles
-Total Energy: 2.07524e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 43
-The number of total iterations: 2972160
-Total Runtime: 195954497 cycles
-Total Energy: 2.13441e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 43
-The number of total iterations: 2972160
-Total Runtime: 161117316 cycles
-Total Energy: 2.09636e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 43
-The number of total iterations: 2972160
-Total Runtime: 169826355 cycles
-Total Energy: 2.10578e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 43
-The number of total iterations: 2972160
-Total Runtime: 178535681 cycles
-Total Energy: 2.11543e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 43
-The number of total iterations: 2972160
-Total Runtime: 187245089 cycles
-Total Energy: 2.11505e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 44
-The number of total iterations: 3041280
-Total Runtime: 200585516 cycles
-Total Energy: 2.17376e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 44
-The number of total iterations: 3041280
-Total Runtime: 164918882 cycles
-Total Energy: 2.13594e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 44
-The number of total iterations: 3041280
-Total Runtime: 173835278 cycles
-Total Energy: 2.14535e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 44
-The number of total iterations: 3041280
-Total Runtime: 182751968 cycles
-Total Energy: 2.155e+10 times MAC energy
-The number of temporal iterations: 69120
-The number of spatial foldings: 44
-The number of total iterations: 3041280
-Total Runtime: 191668742 cycles
-Total Energy: 2.16442e+10 times MAC energy
+368640
+2
+737280
+26910734
+3.80357e+09
+368640
+2
+737280
+22486997
+2.09687e+09
+368640
+2
+737280
+22855640
+2.21331e+09
+368640
+2
+737280
+23224284
+2.32975e+09
+368640
+2
+737280
+23224288
+2.44619e+09
+368640
+2
+737280
+23592932
+2.56263e+09
+368640
+2
+737280
+23961575
+2.66663e+09
+368640
+2
+737280
+24330219
+2.78307e+09
+368640
+2
+737280
+24698862
+2.89951e+09
+368640
+2
+737280
+24698867
+3.01595e+09
+368640
+2
+737280
+25067510
+3.13239e+09
+368640
+2
+737280
+25436154
+3.23639e+09
+368640
+2
+737280
+25804797
+3.35283e+09
+368640
+2
+737280
+26173441
+3.46927e+09
+368640
+2
+737280
+26173445
+3.58571e+09
+368640
+2
+737280
+26542090
+3.70215e+09
+368640
+3
+1105920
+48291839
+5.69918e+09
+368640
+3
+1105920
+39444404
+3.99248e+09
+368640
+3
+1105920
+40181686
+4.10892e+09
+368640
+3
+1105920
+40918969
+4.22536e+09
+368640
+3
+1105920
+40918973
+4.3418e+09
+368640
+3
+1105920
+41656257
+4.45824e+09
+368640
+3
+1105920
+42393541
+4.56224e+09
+368640
+3
+1105920
+43130827
+4.67868e+09
+368640
+3
+1105920
+43868112
+4.79512e+09
+368640
+3
+1105920
+43868120
+4.91156e+09
+368640
+3
+1105920
+44605404
+5.028e+09
+368640
+3
+1105920
+45342690
+5.132e+09
+368640
+3
+1105920
+46079975
+5.24844e+09
+368640
+3
+1105920
+46817260
+5.36488e+09
+368640
+3
+1105920
+46817267
+5.48132e+09
+368640
+3
+1105920
+47554554
+5.59776e+09
+368640
+4
+1474560
+69672944
+7.5948e+09
+368640
+4
+1474560
+56401811
+5.88809e+09
+368640
+4
+1474560
+57507732
+6.00453e+09
+368640
+4
+1474560
+58613654
+6.12097e+09
+368640
+4
+1474560
+58613658
+6.23741e+09
+368640
+4
+1474560
+59719582
+6.35385e+09
+368640
+4
+1474560
+60825507
+6.45785e+09
+368640
+4
+1474560
+61931435
+6.57429e+09
+368640
+4
+1474560
+63037362
+6.69073e+09
+368640
+4
+1474560
+63037373
+6.80717e+09
+368640
+4
+1474560
+64143298
+6.92361e+09
+368640
+4
+1474560
+65249226
+7.02761e+09
+368640
+4
+1474560
+66355153
+7.14405e+09
+368640
+4
+1474560
+67461079
+7.26049e+09
+368640
+4
+1474560
+67461089
+7.37693e+09
+368640
+4
+1474560
+68567018
+7.49337e+09
+368640
+5
+1843200
+91054049
+9.49041e+09
+368640
+5
+1843200
+73359218
+7.7837e+09
+368640
+5
+1843200
+74833778
+7.90014e+09
+368640
+5
+1843200
+76308339
+8.01658e+09
+368640
+5
+1843200
+76308343
+8.13302e+09
+368640
+5
+1843200
+77782907
+8.24946e+09
+368640
+5
+1843200
+79257473
+8.35346e+09
+368640
+5
+1843200
+80732043
+8.4699e+09
+368640
+5
+1843200
+82206612
+8.58634e+09
+368640
+5
+1843200
+82206626
+8.70278e+09
+368640
+5
+1843200
+83681192
+8.81922e+09
+368640
+5
+1843200
+85155762
+8.92322e+09
+368640
+5
+1843200
+86630331
+9.03966e+09
+368640
+5
+1843200
+88104898
+9.1561e+09
+368640
+5
+1843200
+88104911
+9.27254e+09
+368640
+5
+1843200
+89579482
+9.38898e+09
+368640
+6
+2211840
+112435154
+1.1386e+10
+368640
+6
+2211840
+90316625
+9.67932e+09
+368640
+6
+2211840
+92159824
+9.79576e+09
+368640
+6
+2211840
+94003024
+9.9122e+09
+368640
+6
+2211840
+94003028
+1.00286e+10
+368640
+6
+2211840
+95846232
+1.01451e+10
+368640
+6
+2211840
+97689439
+1.02491e+10
+368640
+6
+2211840
+99532651
+1.03655e+10
+368640
+6
+2211840
+101375862
+1.0482e+10
+368640
+6
+2211840
+101375879
+1.05984e+10
+368640
+6
+2211840
+103219086
+1.07148e+10
+368640
+6
+2211840
+105062298
+1.08188e+10
+368640
+6
+2211840
+106905509
+1.09353e+10
+368640
+6
+2211840
+108748717
+1.10517e+10
+368640
+6
+2211840
+108748733
+1.11682e+10
+368640
+6
+2211840
+110591946
+1.12846e+10
+368640
+7
+2580480
+133816259
+1.32816e+10
+368640
+7
+2580480
+107274032
+1.15749e+10
+368640
+7
+2580480
+109485870
+1.16914e+10
+368640
+7
+2580480
+111697709
+1.18078e+10
+368640
+7
+2580480
+111697713
+1.19242e+10
+368640
+7
+2580480
+113909557
+1.20407e+10
+368640
+7
+2580480
+116121405
+1.21447e+10
+368640
+7
+2580480
+118333259
+1.22611e+10
+368640
+7
+2580480
+120545112
+1.23776e+10
+368640
+7
+2580480
+120545132
+1.2494e+10
+368640
+7
+2580480
+122756980
+1.26104e+10
+368640
+7
+2580480
+124968834
+1.27144e+10
+368640
+7
+2580480
+127180687
+1.28309e+10
+368640
+7
+2580480
+129392536
+1.29473e+10
+368640
+7
+2580480
+129392555
+1.30638e+10
+368640
+7
+2580480
+131604410
+1.31802e+10
+368640
+8
+2949120
+155197364
+1.51772e+10
+368640
+8
+2949120
+124231439
+1.34705e+10
+368640
+8
+2949120
+126811916
+1.3587e+10
+368640
+8
+2949120
+129392394
+1.37034e+10
+368640
+8
+2949120
+129392398
+1.38199e+10
+368640
+8
+2949120
+131972882
+1.39363e+10
+368640
+8
+2949120
+134553371
+1.40403e+10
+368640
+8
+2949120
+137133867
+1.41567e+10
+368640
+8
+2949120
+139714362
+1.42732e+10
+368640
+8
+2949120
+139714385
+1.43896e+10
+368640
+8
+2949120
+142294874
+1.45061e+10
+368640
+8
+2949120
+144875370
+1.46101e+10
+368640
+8
+2949120
+147455865
+1.47265e+10
+368640
+8
+2949120
+150036355
+1.48429e+10
+368640
+8
+2949120
+150036377
+1.49594e+10
+368640
+8
+2949120
+152616874
+1.50758e+10
+368640
+9
+3317760
+176578469
+1.70729e+10
+368640
+9
+3317760
+141188846
+1.53661e+10
+368640
+9
+3317760
+144137962
+1.54826e+10
+368640
+9
+3317760
+147087079
+1.5599e+10
+368640
+9
+3317760
+147087083
+1.57155e+10
+368640
+9
+3317760
+150036207
+1.58319e+10
+368640
+9
+3317760
+152985337
+1.59359e+10
+368640
+9
+3317760
+155934475
+1.60523e+10
+368640
+9
+3317760
+158883612
+1.61688e+10
+368640
+9
+3317760
+158883638
+1.62852e+10
+368640
+9
+3317760
+161832768
+1.64017e+10
+368640
+9
+3317760
+164781906
+1.65057e+10
+368640
+9
+3317760
+167731043
+1.66221e+10
+368640
+9
+3317760
+170680174
+1.67385e+10
+368640
+9
+3317760
+170680199
+1.6855e+10
+368640
+9
+3317760
+173629338
+1.69714e+10
+368640
+10
+3686400
+197959574
+1.89685e+10
+368640
+10
+3686400
+158146253
+1.72618e+10
+368640
+10
+3686400
+161464008
+1.73782e+10
+368640
+10
+3686400
+164781764
+1.74946e+10
+368640
+10
+3686400
+164781768
+1.76111e+10
+368640
+10
+3686400
+168099532
+1.77275e+10
+368640
+10
+3686400
+171417303
+1.78315e+10
+368640
+10
+3686400
+174735083
+1.7948e+10
+368640
+10
+3686400
+178052862
+1.80644e+10
+368640
+10
+3686400
+178052891
+1.81808e+10
+368640
+10
+3686400
+181370662
+1.82973e+10
+368640
+10
+3686400
+184688442
+1.84013e+10
+368640
+10
+3686400
+188006221
+1.85177e+10
+368640
+10
+3686400
+191323993
+1.86342e+10
+368640
+10
+3686400
+191324021
+1.87506e+10
+368640
+10
+3686400
+194641802
+1.8867e+10
+368640
+11
+4055040
+219340679
+2.08641e+10
+368640
+11
+4055040
+175103660
+1.91574e+10
+368640
+11
+4055040
+178790054
+1.92738e+10
+368640
+11
+4055040
+182476449
+1.93903e+10
+368640
+11
+4055040
+182476453
+1.95067e+10
+368640
+11
+4055040
+186162857
+1.96231e+10
+368640
+11
+4055040
+189849269
+1.97271e+10
+368640
+11
+4055040
+193535691
+1.98436e+10
+368640
+11
+4055040
+197222112
+1.996e+10
+368640
+11
+4055040
+197222144
+2.00765e+10
+368640
+11
+4055040
+200908556
+2.01929e+10
+368640
+11
+4055040
+204594978
+2.02969e+10
+368640
+11
+4055040
+208281399
+2.04133e+10
+368640
+11
+4055040
+211967812
+2.05298e+10
+368640
+11
+4055040
+211967843
+2.06462e+10
+368640
+11
+4055040
+215654266
+2.07627e+10
+368640
+12
+4423680
+240721784
+2.27597e+10
+368640
+12
+4423680
+192061067
+2.1053e+10
+368640
+12
+4423680
+196116100
+2.11694e+10
+368640
+12
+4423680
+200171134
+2.12859e+10
+368640
+12
+4423680
+200171138
+2.14023e+10
+368640
+12
+4423680
+204226182
+2.15187e+10
+368640
+12
+4423680
+208281235
+2.16227e+10
+368640
+12
+4423680
+212336299
+2.17392e+10
+368640
+12
+4423680
+216391362
+2.18556e+10
+368640
+12
+4423680
+216391397
+2.19721e+10
+368640
+12
+4423680
+220446450
+2.20885e+10
+368640
+12
+4423680
+224501514
+2.21925e+10
+368640
+12
+4423680
+228556577
+2.23089e+10
+368640
+12
+4423680
+232611631
+2.24254e+10
+368640
+12
+4423680
+232611665
+2.25418e+10
+368640
+12
+4423680
+236666730
+2.26583e+10
+368640
+13
+4792320
+262102889
+2.46553e+10
+368640
+13
+4792320
+209018474
+2.29486e+10
+368640
+13
+4792320
+213442146
+2.3065e+10
+368640
+13
+4792320
+217865819
+2.31815e+10
+368640
+13
+4792320
+217865823
+2.32979e+10
+368640
+13
+4792320
+222289507
+2.34144e+10
+368640
+13
+4792320
+226713201
+2.35184e+10
+368640
+13
+4792320
+231136907
+2.36348e+10
+368640
+13
+4792320
+235560612
+2.37512e+10
+368640
+13
+4792320
+235560650
+2.38677e+10
+368640
+13
+4792320
+239984344
+2.39841e+10
+368640
+13
+4792320
+244408050
+2.40881e+10
+368640
+13
+4792320
+248831755
+2.42046e+10
+368640
+13
+4792320
+253255450
+2.4321e+10
+368640
+13
+4792320
+253255487
+2.44374e+10
+368640
+13
+4792320
+257679194
+2.45539e+10
+368640
+14
+5160960
+283483994
+2.65509e+10

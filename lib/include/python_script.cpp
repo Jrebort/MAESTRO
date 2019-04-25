@@ -2,20 +2,22 @@
 
 //int great_function_from_python(int a);
 
-int great_function_from_python(char *a) {
+int great_function_from_python() {
 	Py_Initialize();
+    PyRun_SimpleString("print 'Python Start'");
     PyRun_SimpleString("import sys");
-    PyRun_SimpleString("sys.path.append('../../')");
+    PyRun_SimpleString("sys.path.append('../../../')");
     PyObject *pModule = PyImport_ImportModule("plot");
     PyObject *pDict = PyModule_GetDict(pModule);
-    PyObject *pFunc = PyObject_GetAttrString(pModule, "printf");
-    PyObject *pArg = Py_BuildValue("(s)", a);
-    PyEval_CallObject(pFunc, pArg);
+    PyObject *pFunc = PyObject_GetAttrString(pModule, "main");
+//    PyObject *pArg = Py_BuildValue("(s)", "Hello Charity");
+    PyEval_CallObject(pFunc, NULL);
     Py_Finalize();
+    PyRun_SimpleString("print 'Python end'");
     return 0;
 }
 
 int main(){
-	char string[7]="Hello";
-	great_function_from_python(string);
+	
+	great_function_from_python();
 }

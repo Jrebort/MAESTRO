@@ -1,15 +1,13 @@
-CC=g++
-SRCS=$(wildcard lib/include/python_script.cpp)
-SRC=./lib/include/python_script.cpp
-OBJS=$(patsubst %.c, %.o, $(SRCS))
-FLAG=-g -I /usr/include/python3.5 -lpython2.7
+EXE = MAE_exe
+CC = g++
+FLAG = -I /usr/include/python2.7 -lpython2.7 -g -Wall -Wextra
+SROC = ./lib/include/python_script.cpp
+all:$(EXE) 
+$(EXE): main.o
+	$(CC) $^ -o $(EXE) -lpython2.7
 
-TARGET=test.out
-$(TARGET):
-	$(CC) -o $@ $^ $(FLAG)
-
-%.o:%.c
-	$(CC) -o $@ -c $(SRC) $< -g
+main.o:$(SROC) 
+	$(CC) -c $< -o $@ $(FLAG)
 
 clean:
-	rm -rf $(TARGET) $(OBJS)
+	rm *.o $(EXE)

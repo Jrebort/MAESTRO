@@ -256,7 +256,7 @@ namespace maestro {
   void AnalyzeRuntime(int num_alus_per_pe = 1, bool do_reduction = true, bool do_implicit_reduction = true, bool fg_sync = false, bool latency_hiding = true) {
     std::ofstream output;
 
-    output.open("./result",std::ios::trunc|std::ios::app);
+    output.open("./result",std::ios::app);
 
 
     perf_analysis = std::make_shared<maestro::PerformanceAnalysis> (map_analysis, buff_analysis, noc_model, do_reduction, do_implicit_reduction, fg_sync);
@@ -278,11 +278,11 @@ namespace maestro {
 //    std::cout<< "The number of total iterations: " << temporal_iterations * spatial_foldings << std::endl;
 //    std::cout << "Total Runtime: " << runtime << " cycles" << std::endl;
 //    std::cout << "Total Energy: " << AnalyzeEnergy()/(float) (1.73) << " times MAC energy" << std::endl;
-    output<<temporal_iterations << std::endl;
-    output<<spatial_foldings << std::endl;
-    output<< "The number of total iterations: " << temporal_iterations * spatial_foldings << std::endl;
-    output<< "Total Runtime: " << runtime << " cycles" << std::endl;
-    output<< "Total Energy: " << AnalyzeEnergy()/(float) (1.73) << " times MAC energy" << std::endl;
+    output<< temporal_iterations << std::endl;
+    output<< spatial_foldings << std::endl;
+    output<< temporal_iterations * spatial_foldings << std::endl;
+    output<< runtime << std::endl;
+    output<< AnalyzeEnergy()/(float) (1.73)  << std::endl;
     output.close();  
   }
 
