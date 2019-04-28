@@ -4,6 +4,7 @@
 import matplotlib.pyplot as plt
 import math
 import os
+import numpy as np
 
 def pre_result_data():
 	i = 0		   
@@ -64,11 +65,31 @@ def plot(x,y):
 	plt.ylabel('y')
 	plt.show()
 
+def bar():
+	labels   = ['ws','sd','rs','nlr','maeri']
+	quants   = [368640, 1105920, 69120, 2488320, 1105920]
+	width = 0.4
+	ind = np.linspace(0.5,9.5,5)
+	fig = plt.figure(1)
+	ax  = fig.add_subplot(111)
+	print ind-width/2
+	ax.bar(ind-width/2,quants,width,color='green')
+	ax.set_xticks(ind)
+	ax.set_xticklabels(labels)
+	ax.set_xlabel('Dataflow')
+	ax.set_ylabel('The number of temporal iterations')
+	ax.set_title('The impact of different dataflow on The number of temporal iterations', bbox={'facecolor':'0.8', 'pad':5})
+	plt.grid(True)
+	plt.savefig("bar.jpg")
+	plt.show()
+
+ 
 
 def main():
 	result = pre_result_data()
 	x = pre_var_data()
-	plot(x,result)
+#	plot(x,result)
+	bar()
 
 
 if __name__ == "__main__":

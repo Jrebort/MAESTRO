@@ -8,7 +8,8 @@ int great_function_from_python() {
     PyRun_SimpleString("import sys");
     PyRun_SimpleString("sys.path.append('../../../')");
     PyObject *pModule = PyImport_ImportModule("plot");
-    PyObject *pDict = PyModule_GetDict(pModule);
+//    PyObject *pDict = PyModule_GetDict(pModule);
+    PyRun_SimpleString("print 'Python Start'");
     PyObject *pFunc = PyObject_GetAttrString(pModule, "main");
 //    PyObject *pArg = Py_BuildValue("(s)", "Hello Charity");
     PyEval_CallObject(pFunc, NULL);

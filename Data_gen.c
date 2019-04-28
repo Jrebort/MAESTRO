@@ -76,7 +76,7 @@ int main()
 	vector <string> content_buffer;
 	vector <string>::iterator iter;
 	int lineNum=6;
-	char cmd[]="./maestro --dataflow_file='data/dataflow/ws.m' \
+	char cmd[]="./maestro --dataflow_file='data/dataflow/sd.m' \
 	         --layer_file='data/layer/layer_configuration.m' \
 	         --noc_bw=4 \
 	         --num_pes=16";
@@ -110,6 +110,6 @@ int main()
 
 	}
 	//  call python script
-	
+
 	return 0;
 }
